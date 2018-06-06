@@ -1,4 +1,4 @@
-package main.java.CrunchifyRESTJerseyExample;
+package com.crunchify.restjersey;
 
 /**
  * @author Crunchify

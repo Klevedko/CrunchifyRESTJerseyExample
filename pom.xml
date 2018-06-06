@@ -4,7 +4,7 @@
   <groupId>CrunchifyRESTJerseyExample</groupId>
   <artifactId>CrunchifyRESTJerseyExample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
@@ -21,7 +21,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>CrunchifyRESTJerseyExample.App</mainClass>
+              <mainClass>ssh.App</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>

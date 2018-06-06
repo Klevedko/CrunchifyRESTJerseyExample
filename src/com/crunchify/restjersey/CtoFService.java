@@ -1,4 +1,4 @@
-package main.java.CrunchifyRESTJerseyExample;
+package com.crunchify.restjersey;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
